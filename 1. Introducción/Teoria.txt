@@ -1,0 +1,25 @@
+Un dato es una de las cosas basicas que utiliza un programa, como una letra o un numero. por ejemplo:5 o 4.99 que son datos numericos
+
+Una variable es una de las caracteristicas mas potentes de un lenguaje de programacion es la capacidad de manipular variables.
+Que es un espacio en memoria que se le va a asignar que va a llevar un nombre y un dato asignado.
+
+Reglas de las variables
+-No pueden iniciar con un numero
+-No pueden llevar caracteres especiales
+-No pueden llevar el nombre de palabras reservadas del lenguaje
+
+Variables con mayusculas significa que no deben ser modificados
+
+-Los operadores aritmericos son simbolos especiales que representan calculos, como la suma o la multiplicacion.
+ Los valores a los cuales se aplican esos operadores reciben el nombre de operandos
+
+ El modulo evalua el residuo de una division
+ Exponenciacion es con ** asterisco
+ Division entera es // slash y nos trae solo la parte entera del cociente
+ 
+-Jerarquia de las operaciones:
+Lo que este en parentesis es lo primero que se realiza
+La exponenciacion es lo segundo que se realiza
+La multiplicacion y division es lo tercero que se realiza
+Ya al final la suma y la resta
+
