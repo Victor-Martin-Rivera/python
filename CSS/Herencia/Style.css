@@ -1,0 +1,9 @@
+p{
+    background-color: yellow;
+    color: white;
+}
+/*Aqui aplica la herencia*/
+/*inherit es una palabra reservada para indicar que hay herencia(hay herencia del color porque <a> es hija de <p>)*/
+a{
+    color: inherit;
+}

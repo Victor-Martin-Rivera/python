@@ -1,0 +1,37 @@
+p{
+    color: red;
+}
+
+h1{
+    color: blue;
+}
+
+main{
+    background-color: green;;
+}
+
+body{
+    background-color: black;
+}
+
+/* Cuando se vuelva a colocar un nuevo diseño o atributo o regla abajo sobre un selector que ya tiene atributo se sustituira lo que esta hasta abajo(Cascada) */
+
+/*Ahora en vez de mostrarse el color rojo se muestra el color blanco para el parrafo*/
+p{
+    color: white;
+}
+
+/*Ahora el color es violet en vez de rojo*/
+h1{
+    color: violet;
+}
+
+/*Se vuelve a modificar el estilo para el main y el body*/
+main{
+    background-color: yellowgreen;
+}
+
+body{
+    background-color: white;
+}
+/*La cascada es todo valor predeterminado o ya determinado que se coloque hasta abajo se va a modificar(se sustituira siempre lo que esta hasta abajo y van en orden)*/

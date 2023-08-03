@@ -1,0 +1,19 @@
+/*Aqui entra la especificidad*/
+
+/*el ID tiene mas valor que una etiqueta simple y una class*/
+p{
+    color: lightsalmon;
+}
+/*El class vale menos que un ID*/
+.clase{
+    color: lawngreen;
+}
+
+/*Si tiene la etiqueta !important le gana a todos los estilos anteriores*/
+p{
+    color: lightcoral !important;
+}
+
+/*El estilo en linea tiene un valor de 1000
+La clase tiene un valor de 10
+El ID tiene un valor de 100*/
