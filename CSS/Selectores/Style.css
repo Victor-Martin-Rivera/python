@@ -1,0 +1,5 @@
+/*Selector universal(Agrega estilos a toda la pagina)*/
+*{
+    font-size: 50px;
+    color: hotpink;
+}
