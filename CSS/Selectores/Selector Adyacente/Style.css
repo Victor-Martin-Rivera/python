@@ -1,0 +1,6 @@
+/*Al elemento mas cercado a <h2> se le colocara los estilos que es <h3>*/
+h2 + h3{
+    color: fuchsia;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}

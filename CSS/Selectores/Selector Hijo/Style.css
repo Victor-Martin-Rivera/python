@@ -1,0 +1,12 @@
+/*Todos las etiquetas <a> que sean hijas de h1 tendran los sig. atributos*/
+h1 > a{
+    color: coral;
+    font-size: 48px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: darkslategray;
+}
+/*Se le aplica a las etiquetas <a> que son hijos de <p>*/
+p > a{
+    color: firebrick;
+    font-size: 72px;
+}

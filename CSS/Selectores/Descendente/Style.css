@@ -1,0 +1,8 @@
+/*Mando a llamar a <p> (el padre) y luego <a> (el hijo) y se aplica el diseño*/
+p a{
+    background-color: green;;
+}
+
+h3 a{
+    background-color: red;
+}

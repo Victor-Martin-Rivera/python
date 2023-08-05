@@ -1,0 +1,12 @@
+[class]{
+    color: red;
+    font-size: 48px;
+    background-color: rosybrown;
+}
+
+/*Solo se modificara los que tengan el valor y atributo class y parrafo*/
+[class="parrafo"]{
+    color: seagreen;
+    font-weight: bold;
+    
+}
